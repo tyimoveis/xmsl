@@ -4,7 +4,7 @@
   <link rel="self" href="https://seusite.com/feed-imoveis.xml "/>
   <updated>2025-05-02T17:04:27Z</updated>
 
-  <!-- Primeiro Imóvel -->
+  <!-- AP0001 -->
   <entry>
     <g:id>AP0001</g:id>
     <g:title>Apartamento com 3 dormitórios à venda, 235 m² por R$ 2.950.000,00 - Gleba Palhano - Londrina/PR</g:title>
@@ -40,7 +40,7 @@
     </g:address>
   </entry>
 
-  <!-- Segundo Imóvel -->
+  <!-- CA0001 -->
   <entry>
     <g:id>CA0001</g:id>
     <g:title>Casa com 4 dormitórios à venda, 413 m² por R$ 4.950.000,00 - Sun Lake Residence - Londrina/PR</g:title>
