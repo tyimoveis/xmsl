@@ -1,80 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
-  <title>Catálogo de Imóveis - Londrina/PR</title>
-  <link rel="self" href="https://seusite.com/feed-imoveis.xml "/>
-  <updated>2025-05-02T17:04:27Z</updated>
+<rss version="2.0">
+  <channel>
+    <title>Catálogo de Imóveis - Londrina</title>
+    <link>https://seusite.com/feed-imoveis.xml </link>
+    <description>Feed de imóveis para Londrina - PR</description>
+    <language>pt-BR</language>
+    <lastBuildDate>Mon, 07 Apr 2025 12:00:00 GMT</lastBuildDate>
 
-  <!-- AP0001 -->
-  <entry>
-    <g:id>AP0001</g:id>
-    <g:title>Apartamento com 3 dormitórios à venda, 235 m² por R$ 2.950.000,00 - Gleba Palhano - Londrina/PR</g:title>
-    <g:description>Apartamento a venda na gleba Palhano, 3 Dormitorios sendo 1 suite</g:description>
-    <g:link>https://seusite.com/imovel/AP0001 </g:link>
-    <g:image_link>http://images.ingaiasites.com.br/26e6af2db08bb0ab19c36b8e6b7b0938.jpg</g:image_link>
-    <g:additional_image_link>http://images.ingaiasites.com.br/9dffa0a41db9609cc3ba0bdde80cee56.jpg</g:additional_image_link>
-    <g:additional_image_link>http://images.ingaiasites.com.br/325a091555b032705edf4b05ea09fb96.jpg</g:additional_image_link>
-    <g:additional_image_link>http://images.ingaiasites.com.br/480dec0e1a5a28ab33a3135f6b4adca1.jpg</g:additional_image_link>
-    <g:additional_image_link>http://images.ingaiasites.com.br/41394ece8f4964688125750ebdac250d.jpg</g:additional_image_link>
-    <g:additional_image_link>http://images.ingaiasites.com.br/901e16b4608728094982f5eb1638c7a6.jpg</g:additional_image_link>
-    <g:additional_image_link>http://images.ingaiasites.com.br/df63bf3ba732f94cc96b203a314d8379.jpg</g:additional_image_link>
-    <g:additional_image_link>http://images.ingaiasites.com.br/6b698d57318cc0b643aac8643e683ce2.jpg</g:additional_image_link>
-    <g:additional_image_link>http://images.ingaiasites.com.br/2f9406ec46cf7af3ed09ccf97ebf1976.jpg</g:additional_image_link>
-    <g:additional_image_link>http://images.ingaiasites.com.br/5ebc71ffc953644f4db17bbda8e11918.jpg</g:additional_image_link>
-    <g:price>2950000.00 BRL</g:price>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:property_type>Apartamento</g:property_type>
-    <g:real_estate_listing_type>Venda</g:real_estate_listing_type>
-    <g:bedrooms>3</g:bedrooms>
-    <g:suites>3</g:suites>
-    <g:bathrooms>6</g:bathrooms>
-    <g:floor_size>235</g:floor_size>
-    <g:floor_size_unit>Metros quadrados</g:floor_size_unit>
-    <g:parking>3</g:parking>
-    <g:address>
-      <g:street_address>Gleba Palhano</g:street_address>
-      <g:locality>Londrina</g:locality>
-      <g:region>PR</g:region>
-      <g:postal_code>86050464</g:postal_code>
-      <g:country_code>BR</g:country_code>
-    </g:address>
-  </entry>
+    <!-- AP0001 -->
+    <item>
+      <title>Apartamento com 3 dormitórios à venda, 235 m² por R$ 2.950.000,00 - Gleba Palhano - Londrina/PR</title>
+      <link>https://seusite.com/imovel/AP0001 </link>
+      <description>
+        Apartamento a venda na gleba Palhano, 3 Dormitorios sendo 1 suite.
+        Quartos: 3 | Suítes: 3 | Banheiros: 6 | Garagens: 3
+      </description>
+      <guid>AP0001</guid>
+      <pubDate>Mon, 07 Apr 2025 12:00:00 GMT</pubDate>
+      <image>
+        <url>http://images.ingaiasites.com.br/26e6af2db08bb0ab19c36b8e6b7b0938.jpg</url>
+        <title>Foto principal - AP0001</title>
+      </image>
+      <price>2950000 BRL</price>
+      <type>Apartamento</type>
+      <location>
+        <street>Gleba Palhano</street>
+        <city>Londrina</city>
+        <state>PR</state>
+        <zip>86050464</zip>
+        <country>Brazil</country>
+      </location>
+      <area>235</area>
+      <bedrooms>3</bedrooms>
+      <bathrooms>6</bathrooms>
+      <garage>3</garage>
+    </item>
 
-  <!-- CA0001 -->
-  <entry>
-    <g:id>CA0001</g:id>
-    <g:title>Casa com 4 dormitórios à venda, 413 m² por R$ 4.950.000,00 - Sun Lake Residence - Londrina/PR</g:title>
-    <g:description>Casa à venda no Condomínio Sun Lake em Londrina 4 suítes, piscina e churrasqueira Se você procura luxo, conforto e exclusividade, esta é a oportunidade perfeita! Linda casa...</g:description>
-    <g:link>https://seusite.com/imovel/CA0001 </g:link>
-    <g:image_link>http://images.ingaiasites.com.br/9ad39549f4d8d5195b9f2311904a455f.jpg</g:image_link>
-    <g:additional_image_link>http://images.ingaiasites.com.br/373adac516a95d6c9381fb8dfc0dd4e6.jpg</g:additional_image_link>
-    <g:additional_image_link>http://images.ingaiasites.com.br/5d50f765083904535c2afcc767312a49.jpg</g:additional_image_link>
-    <g:additional_image_link>http://images.ingaiasites.com.br/1d6f639b6bbba5d7504a9f5f84e8d533.jpg</g:additional_image_link>
-    <g:additional_image_link>http://images.ingaiasites.com.br/81245a6f92867c6f18afad0b461e53e5.jpg</g:additional_image_link>
-    <g:additional_image_link>http://images.ingaiasites.com.br/7e55e331f33dff7d52c997adb9dc019d.jpg</g:additional_image_link>
-    <g:additional_image_link>http://images.ingaiasites.com.br/4388da4ad34fa96c7b318ba3724af077.jpg</g:additional_image_link>
-    <g:additional_image_link>http://images.ingaiasites.com.br/ba756147f8c8d141b660f81107f8524c.jpg</g:additional_image_link>
-    <g:additional_image_link>http://images.ingaiasites.com.br/bb0acd1457dcdfee7b10628927ba712f.jpg</g:additional_image_link>
-    <g:additional_image_link>http://images.ingaiasites.com.br/cb9e85dd9fbebd9e2a184f79713f9a39.jpg</g:additional_image_link>
-    <g:price>4950000.00 BRL</g:price>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:property_type>Casa / Sobrado em Condomínio</g:property_type>
-    <g:real_estate_listing_type>Venda</g:real_estate_listing_type>
-    <g:bedrooms>4</g:bedrooms>
-    <g:suites>4</g:suites>
-    <g:bathrooms>7</g:bathrooms>
-    <g:floor_size>413.64</g:floor_size>
-    <g:floor_size_unit>Metros quadrados</g:floor_size_unit>
-    <g:parking>6</g:parking>
-    <g:address>
-      <g:street_address>Sun Lake Residence</g:street_address>
-      <g:locality>Londrina</g:locality>
-      <g:region>PR</g:region>
-      <g:postal_code>86055701</g:postal_code>
-      <g:country_code>BR</g:country_code>
-    </g:address>
-    <g:monthly_payment>850.00 BRL</g:monthly_payment>
-  </entry>
+    <!-- CA0001 -->
+    <item>
+      <title>Casa com 4 dormitórios à venda, 413 m² por R$ 4.950.000,00 - Sun Lake Residence - Londrina/PR</title>
+      <link>https://seusite.com/imovel/CA0001 </link>
+      <description>
+        Casa à venda no Condomínio Sun Lake em Londrina 4 suítes, piscina e churrasqueira.
+        Quartos: 4 | Suítes: 4 | Banheiros: 7 | Garagens: 6
+      </description>
+      <guid>CA0001</guid>
+      <pubDate>Mon, 07 Apr 2025 12:00:00 GMT</pubDate>
+      <image>
+        <url>http://images.ingaiasites.com.br/9ad39549f4d8d5195b9f2311904a455f.jpg</url>
+        <title>Foto principal - CA0001</title>
+      </image>
+      <price>4950000 BRL</price>
+      <type>Casa / Sobrado em Condomínio</type>
+      <location>
+        <street>Sun Lake Residence</street>
+        <city>Londrina</city>
+        <state>PR</state>
+        <zip>86055701</zip>
+        <country>Brazil</country>
+      </location>
+      <area>413.64</area>
+      <bedrooms>4</bedrooms>
+      <bathrooms>7</bathrooms>
+      <garage>6</garage>
+    </item>
 
-</feed>
+  </channel>
+</rss>
